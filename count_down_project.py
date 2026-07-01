@@ -9,4 +9,3 @@ for i in range(count,0,-1):
 print("\nWOHOOO! Happy New Year\n")
 
 #project completed
- 
